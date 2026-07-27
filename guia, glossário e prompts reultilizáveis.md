@@ -213,3 +213,15 @@ Seu propósito é promover:
 - Melhor qualidade de vida;
 - Autonomia nas decisões financeiras;
 - Exercício da cidadania financeira.
+
+# Biblioteca de prompts
+
+# 📖 Prompts reultilizáveis
+
+> Explique o conceito de consumo consciente utilizando apenas as informações das fontes fornecidas.
+> Compare consumo consciente e consumo impulsivo em formato de tabela.
+> Crie um resumo em até 10 tópicos.
+> Liste os principais erros financeiros relacionados ao consumo impulsivo.Explique o tema como se estivesse ensinando um estudante do ensino médio.
+> Gere um mapa mental em texto sobre consumo consciente.
+> Crie perguntas de revisão baseadas nas fontes.
+> Identifique pontos de convergência e divergência entre os documentos analisados.
