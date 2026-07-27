@@ -216,7 +216,7 @@ Seu propósito é promover:
 
 # Biblioteca de prompts
 
-# 📖 Prompts reultilizáveis
+# 📖 Prompts reutilizáveis
 
 > - Explique o conceito de consumo consciente utilizando apenas as informações das fontes fornecidas.
 > - Compare consumo consciente e consumo impulsivo em formato de tabela.
