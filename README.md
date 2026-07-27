@@ -2,7 +2,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte de um desafio prático de aprendizagem utilizando Inteligência Artificial como ferramenta de estudo ativo. O objetivo é explorar o potencial do NotebookLM para organizar informações, gerar insights e apoiar o aprendizado por meio da experimentação com diferentes estratégias de prompts.
+O projeto Treinando uma IA de aprendizagem — Explore o poder do NotebookLM foi desenvolvido como parte de um desafio prático de aprendizagem utilizando Inteligência Artificial como ferramenta de estudo ativo. O objetivo é explorar o potencial do NotebookLM para organizar informações, gerar insights e apoiar o aprendizado por meio da experimentação com diferentes estratégias de prompts.
 O tema escolhido foi Consumo Consciente, um dos pilares da educação financeira. Mais do que compreender conceitos, o projeto busca investigar como a IA interpreta, sintetiza e relaciona informações provenientes de diferentes fontes, avaliando a qualidade das respostas obtidas a partir do refinamento contínuo dos prompts.
 
 ## 🎯 Objetivos
